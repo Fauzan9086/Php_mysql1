@@ -22,6 +22,7 @@
                     <th>Nama</th>
                     <th>Kelas</th>
                     <th>Alamat</th>
+                    <th>Aksi</th>
                 </tr>
             </thead>
 
